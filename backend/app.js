@@ -15,6 +15,7 @@ app.get('/games', async (req, res) => {
     res.send( queryResult)
 })
 
+//app.post
 
 // /users
 
