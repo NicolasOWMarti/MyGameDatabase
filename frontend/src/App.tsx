@@ -14,7 +14,9 @@ function App() {
   }, []); // empty array = runs once on mount
 
 
- return <div>{data ? JSON.stringify(data) : "Loading..."}</div>;
+ return <div>
+  {data ? JSON.stringify(data) : "Loading..."}
+ </div>;
 }
 
 export default App;
