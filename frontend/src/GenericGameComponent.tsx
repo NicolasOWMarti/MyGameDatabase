@@ -1,4 +1,4 @@
-function GenericGameComponent(Title, Genre, AgeRestriction, SinglePlayer, MultiPlayer, ReleaseDate, Developer, Publisher) {
+function GenericGameComponent(Title: string, Genre: string, AgeRestriction: number, SinglePlayer: number, MultiPlayer: number, ReleaseDate: string, Developer: string, Publisher: string) {
 
     return <div className='border-3 rounded-sm border-white'>
         <p>Title: {Title}</p>
