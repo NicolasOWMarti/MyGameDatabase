@@ -30,7 +30,7 @@ function App() {
 
   //console.log(data?.[0]?.title)
 
- return <div className='grid grid-cols-2 gap-4'>
+ return <div>
 { data.map((game) => (
     GenericGameComponent(game["Title"], game["Genre"], game["AgeRestriction"], game["SinglePlayer"], game["MultiPlayer"], game["ReleaseDate"], game["Developer"], game["Publisher"])
   ))}
