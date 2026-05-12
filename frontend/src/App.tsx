@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import './App.css'
-import GenericGameComponent from'./GenericGameComponent.tsx'  
+import GenericGameComponent from'./components/GenericGameComponent.tsx'  
 
 const GamesAPI = "http://localhost:3000/"
 
