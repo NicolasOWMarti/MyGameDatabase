@@ -13,6 +13,10 @@ dette skal bli en nettside som man bruke til å holde styr på spill katalogen s
 | data type | hensikt | Lagring og sletting |
 | --------- | ------- | ------------------- |
 | Brukernavn | Vi trenger et brukernavn for å lage en bruker. Brukernavnet må ikke være brukerens lovlig navn. | Vil lagrer all data på en server som kjører på Nicolas sin skole PC . Når du sletter brukeren din vil  vi slette alle dataen din. |
-| --------- | ------- | ------------------- |
 | Alder | Vi trenger alder for funksjoner der brukeren kan filtrere spill etter som brukeren er gammel nokk til å spille. Fører brukeren en alder som er under 18 så gjemmer vi ikke noe innhold fra nettsiden. | Vil lagrer all data på en server som kjører på Nicolas sin skole PC . Når du sletter brukeren din vil  vi slette alle dataen din. |
 
+## systemkisse
+﻿<img width="827" height="294" alt="image" src="https://github.com/user-attachments/assets/9138683c-98d0-45b9-aee4-7c4a6707168d" />
+
+## Datastruktur
+﻿<img width="1138" height="801" alt="image" src="https://github.com/user-attachments/assets/9ec5f259-3cee-4190-85f7-1fe8ebc83868" />
