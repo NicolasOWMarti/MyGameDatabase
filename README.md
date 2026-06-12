@@ -14,6 +14,7 @@ dette skal bli en nettside som man bruke til å holde styr på spill katalogen s
 - TailWindCSS
 - Nodemon
 - exspressJS
+- MariaDB
 
 ## personvernserklering
 | data type | hensikt | Lagring og sletting |
