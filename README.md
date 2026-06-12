@@ -9,6 +9,12 @@ dette skal bli en nettside som man bruke til å holde styr på spill katalogen s
 - se samlingene sine
 - føre inn relevant informasjon om spill og samlinger
 
+## techstack
+- React
+- TailWindCSS
+- Nodemon
+- exspressJS
+
 ## personvernserklering
 | data type | hensikt | Lagring og sletting |
 | --------- | ------- | ------------------- |
