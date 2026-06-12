@@ -24,7 +24,7 @@ async function PostHandler() {
 }
 
 function NewGameForumComponent() {
-    return <button onClick={PostHandler}>hello</button> // runs PostHandler() when clicked
+    return <button onClick={PostHandler}>Post new game</button> // runs PostHandler() when clicked
 };
 
 export default NewGameForumComponent;
