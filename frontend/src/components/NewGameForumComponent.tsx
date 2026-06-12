@@ -1,4 +1,4 @@
-const API = "http://localhost:3000/"
+const GamesAPI = "http://localhost:3000/"
 
 async function PostHandler() {
     
@@ -14,7 +14,7 @@ async function PostHandler() {
     }
 
     // posts test data
-    const result = await fetch(API + "newgame", {
+    const result = await fetch(GamesAPI + "newgame", {
         method: 'POST',
         headers: {'Content-Type': 'application/json; charset=utf-8'},
         body: JSON.stringify(testData)
